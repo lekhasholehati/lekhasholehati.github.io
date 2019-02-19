@@ -1,0 +1,33 @@
+body {
+background: gmm.jpg;
+  font-family: 'Lato', arial, sans-serif;
+  color: brown;
+  font-size: 16px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  margin:aut;
+}
+h1,
+h2,
+h3,
+h5,
+h6 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: #778492;
+
+}
+h4{
+	word-spacing: 2px;
+	  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+  color: brown;
+
+}
+table{
+	color:brown;
+}
+.carousel-inner> .item > img,
+.carousel-inner> .item > a>img{
+	margin:auto;
+	width:30%;
