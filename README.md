@@ -1,2 +1,0 @@
-# lekhasholehati.github.io
-workshop
